@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6b750312.css",
+    "main.js": "/static/js/main.bb8c4436.js",
+    "static/js/453.91d2f7a8.chunk.js": "/static/js/453.91d2f7a8.chunk.js",
+    "static/media/Picture2.png": "/static/media/Picture2.fa81a8bb4056fb7dedd2.png",
+    "static/media/pencil.png": "/static/media/pencil.4b144cb4563e14ce4f12.png",
+    "static/media/ases.png": "/static/media/ases.2c639d9ccd974314d353.png",
+    "static/media/Picture16.png": "/static/media/Picture16.655d36d6242975fd1bef.png",
+    "static/media/Picture14.png": "/static/media/Picture14.09a58438e61794e5d0c2.png",
+    "static/media/Picture12.png": "/static/media/Picture12.f59fa2b4f7911857aa64.png",
+    "static/media/Picture6.png": "/static/media/Picture6.de3dbf305c15ad2b7fdd.png",
+    "static/media/Picture11.png": "/static/media/Picture11.5daba32bda45e97188e6.png",
+    "static/media/azadi-logo.png": "/static/media/azadi-logo.06ccc369df603b18f2d0.png",
+    "static/media/Picture13.png": "/static/media/Picture13.f418b5c914bb3a375465.png",
+    "static/media/Picture1.png": "/static/media/Picture1.a1698a9424b21ad9b51e.png",
+    "static/media/Picture4.png": "/static/media/Picture4.cbc1aa71142329687d54.png",
+    "index.html": "/index.html",
+    "main.6b750312.css.map": "/static/css/main.6b750312.css.map",
+    "main.bb8c4436.js.map": "/static/js/main.bb8c4436.js.map",
+    "453.91d2f7a8.chunk.js.map": "/static/js/453.91d2f7a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b750312.css",
+    "static/js/main.bb8c4436.js"
+  ]
+}
